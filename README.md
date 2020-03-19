@@ -1,7 +1,9 @@
 # InstrucoesMS
 Guia de preparação do ambiente para a criação de painéis de visualização no Kibana, utilizados no projeto GIAPS, integrado ao Ministério da Saúde.
 
+- É preciso observar, ao seguir os seguintes passos, que o arquivo ".csv" é essencial nesse procedimento e, por razões de confidencialidade, não está exposto nesse readme.
 
+- Altere a rota do arquivo ao configurar o arquivo ".conf".
 
 
 # Topicos 
